@@ -1,0 +1,182 @@
+.top-container
+{
+	background-color:lightblue;
+	text-align:center;
+	padding:100px 100px 0px 100px;
+	color:#53a8b6;
+}
+body
+{
+	margin:0px;
+	text-align:center;
+	font-family:"Lora";
+}
+.bottom-cloud
+{
+	position:absolute;
+}
+.top-cloud
+{
+	position:relative;
+	left:200px;
+
+}
+.mount
+{
+	position:relative;
+	top:3px;
+}
+.second
+{
+	font-family:'Merriweather',serif;
+	font-size:25px;  /*1em=16px*/
+}
+.first
+{
+	font-family:"Sacramento",serif;
+	font-size:90px;
+}
+
+.bottom-container
+{
+	background-color:green;
+	margin:0;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.footer
+{
+	padding:20px;
+}
+
+.contact
+{
+	color:#5e63b6;
+	font-weight:100%;
+	font-size:1em;
+}
+.btn {
+  font-size:17px;
+  font-family:"Montserrat";
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#4e6096;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  box-shadow: 0px 0px 0px 2px #9fb4f2;
+  text-shadow: 0px 1px 0px #283966;
+  background:linear-gradient(rgb(120, 146, 194), #476e9e);
+  text-align:center;
+  margin:20px;
+}
+
+.btn:hover {
+  background: linear-gradient(#476e9e, rgb(120, 146, 194));
+}
+.get
+{
+	font-size:25px;
+}
+.name
+{
+	font-size:25px;
+	color:#53a8b6;
+	text-decoration:underline;
+
+}
+.down
+{
+	color:#680747;
+}
+.p
+{
+	color:#141010;
+	font-weight:200px;
+	line-height:1.5;
+	width:50%;
+	margin-left:340px;
+	
+}
+.cont
+{
+	color:black;
+}
+.profile
+{
+	margin:60px;
+}
+hr
+{
+border:dotted 6px #edb1f1;
+border-bottom:none;
+width:8%;
+margin:90px auto;
+}
+.name1
+{
+	font-size:40px;
+	color:#53a8b6;
+	margin:50px;
+	text-decoration:double underline;
+}
+.skill-row
+{
+	width:50%;
+	margin:120px auto 120px auto;
+	text-align:left;
+
+}
+.img1
+{
+	margin-right:40px;
+	float:left;
+}
+.img2
+{
+	float:right;
+	margin-left:40px;
+}
+.img3
+{
+	float:left;
+	margin-right:40px;
+}
+.img4
+{
+	float:right;
+	margin-left:40px;
+}
+.last
+{
+	color:#141010;
+	font-weight:200px;
+	line-height:1.5;
+}
+.middle-container
+{
+	background:linear-gradient(#e0e0e0, #eeeeee);
+	padding-top:100px;
+}
+.wel
+{
+	text-align:center;
+	color:#c3195d;
+	position:relative;
+	bottom:80px;
+	font-weight:200px;
+	text-decoration:dotted underline;
+	font-size:50px;
+}
+.taru
+{
+	position:relative;
+	bottom:30px;
+}
+.col
+{
+	color:#132743;
+}
